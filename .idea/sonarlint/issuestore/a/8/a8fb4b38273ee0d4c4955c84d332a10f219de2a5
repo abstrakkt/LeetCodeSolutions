@@ -1,0 +1,14 @@
+
+D
+java:S1659 ""Declare "lenB" on a separate line.(ïÌÏÚùÿÿÿÿ8öŸ«¹ß/
+@
+java:S1659!"#Declare "currB" on a separate line.(Çè™Í8øŸ«¹ß/
+g	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²ÍÚÆùÿÿÿÿ
+`
+java:S22594"CA "NullPointerException" could be thrown; "currA" is nullable here.(Ö©“÷8Þ «¹ß/
+`
+java:S2259."CA "NullPointerException" could be thrown; "currA" is nullable here.(Ö©“÷8î «¹ß/
+_
+java:S22595"CA "NullPointerException" could be thrown; "currB" is nullable here.(»·–E8î «¹ß/
+_
+java:S22591"CA "NullPointerException" could be thrown; "currB" is nullable here.(»·–E8Þ «¹ß/
