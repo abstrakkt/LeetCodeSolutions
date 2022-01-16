@@ -4,7 +4,7 @@ package medium;
 public class _33 {
 
     public static void main(String[] args) {
-        int[] ar = {1, 3};
+        int[] ar = {5, 6, 7, 8, 9, 10, 1, 2};
         int target = 1;
         _33 obj = new _33();
         System.out.println(obj.search(ar, target));
